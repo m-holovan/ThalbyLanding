@@ -1,0 +1,15 @@
+.nav .list {
+    display: flex;
+    align-items: center;
+}
+.nav .list .item {
+    margin-right: 28px;
+}
+.nav .list .item:last-child {
+    margin-right: 0;
+}
+.nav .list .item .link {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}

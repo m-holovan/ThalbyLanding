@@ -1,0 +1,35 @@
+.cards {
+    margin-top: 90px;
+}
+
+.collection-section .list {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.collection-section .list .item {
+    margin-left: 40px;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: 25px;
+    width: 156px;
+    height: 60px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+.price {
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.add-button {
+    text-decoration-line: underline;
+    display: block;
+    margin-top: 25px;
+}

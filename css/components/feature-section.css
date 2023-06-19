@@ -1,0 +1,24 @@
+.feature-section {
+    height: 1087px;
+    text-align: center;
+}
+
+.feature-title {
+    font-weight: 400;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.circles-table .list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.circles-table {
+    margin-top: 80px;
+}
+
+.second-section-table {
+    margin-top: 115px;
+    margin-bottom: 200px;
+}

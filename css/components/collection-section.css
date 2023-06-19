@@ -1,0 +1,16 @@
+.collection-section {
+    height: 1276px;
+    text-align: center;
+}
+
+.collection-text {
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.collection-subtitle {
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,44 @@
+.footer {
+    height: 291px;
+    background-color: #020202;
+}
+
+.footer-logo {
+    padding-top: 50px;
+}
+
+.footer .social-list {
+    margin-top: 25px;
+}
+
+.about-list {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    float: right;
+}
+
+.about-list-title {
+    margin-bottom: 40px;
+}
+
+.about-list .item {
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.about-list .item :last-child {
+    margin-bottom: 0;
+}
+
+.contact-information {
+    margin-top: -100px;
+}
+
+.coop {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 210px;
+}

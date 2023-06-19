@@ -1,0 +1,14 @@
+.h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    padding-top: 100px;
+}
+
+.h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}

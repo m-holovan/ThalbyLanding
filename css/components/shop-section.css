@@ -1,0 +1,17 @@
+.shop-section {
+    height: 554px;
+    background-color: #F0EFEB;
+}
+
+.text-on-shop-page {
+    margin-top: 60px;
+}
+
+.main-image {
+    float: right;
+    margin-right: 120px;
+}
+
+.content {
+    float: left;
+}

@@ -1,0 +1,50 @@
+.turquoise-circle {
+    background: #21F7EC;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.green-circle {
+    background: #33D3BC;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.blue-circle {
+    background: #18A5C6;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.orange-circle {
+    background: #D38F62;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.red-circle {
+    background: #F94C43;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.purple-circle {
+    background: #D399FF;
+    border-radius: 35px;
+    height: 70px;
+    width: 70px;
+}
+
+.turquoise-circle,
+.green-circle,
+.blue-circle,
+.orange-circle,
+.red-circle,
+.purple-circle {
+    margin: 0 auto;
+}

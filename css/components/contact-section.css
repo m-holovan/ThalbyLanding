@@ -1,0 +1,40 @@
+.contact-section {
+    height: 435px;
+    text-align: center;
+}
+
+.contact-subtitle {
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.contact-text {
+    padding-top: 90px;
+}
+
+.contact-subtitle {
+    padding-top: 10px;
+    width: 495px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.contact-form .list {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-form .list .item {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.contact-form {
+    margin-top: 25px;
+}
+
+.input-email {
+    width: 386px;
+    height: 39px;
+    margin-top: 25px;
+}
