@@ -1,6 +1,8 @@
 # ThalbyLanding
 In this project i worked with Figma template.
 
+If you want to open this page in your browser. Follow this link: https://m-holovan.github.io/ThalbyLanding/
+
 A little bit screenshots of this site:
 ![image](https://github.com/m-holovan/ThalbyLanding/assets/106975955/c5b02836-2af0-4835-b912-ddb482d3c90c)
 
